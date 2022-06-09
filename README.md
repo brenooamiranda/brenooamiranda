@@ -2,7 +2,7 @@
 
 -💻 Today I work with front-end and starting at Full-Stack
 
--📚 Studying JavaScript and Python
+-📚 Studying JavaScript, React and Python
 
 <div align="center">
   <a href="https://github.com/brenooamiranda">
